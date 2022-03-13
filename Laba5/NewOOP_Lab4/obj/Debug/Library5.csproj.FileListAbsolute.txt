@@ -1,0 +1,5 @@
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab5\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab5\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab5\NewOOP_Lab4\obj\Debug\Library5.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab5\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab5\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.pdb

@@ -1,0 +1,42 @@
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form1.resources
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form2.resources
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form1.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form2.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.pdb
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe.config
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.exe
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4WindowsForm.pdb
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.dll
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\bin\Debug\NewOOP_Lab4.pdb
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csprojAssemblyReference.cache
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form1.resources
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4.Form2.resources
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.Properties.Resources.resources
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.GenerateResource.cache
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CoreCompileInputs.cache
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\Laba4.csproj.CopyComplete
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.exe
+D:\ООП Отчёты\Мои лабы\Lab4\NewOOP_Lab4WindowsForm\obj\Debug\NewOOP_Lab4WindowsForm.pdb

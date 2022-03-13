@@ -1,0 +1,12 @@
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.dll
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.pdb
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4Library.csprojAssemblyReference.cache
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4Library.csproj.CoreCompileInputs.cache
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.dll
+C:\Users\800216\source\repos\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\bin\Debug\NewOOP_Lab4.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4Library.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab4\NewOOP_Lab4\obj\Debug\NewOOP_Lab4.pdb

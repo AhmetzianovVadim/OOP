@@ -1,0 +1,78 @@
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe.config
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7WindowsForm.pdb
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.dll
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csprojAssemblyReference.cache
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7Library.Form1.resources
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.Properties.Resources.resources
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.GenerateResource.cache
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CoreCompileInputs.cache
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.csproj.CopyComplete
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.exe
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7WindowsForm\obj\Debug\NewOOP_Lab7WindowsForm.pdb

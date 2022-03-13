@@ -1,0 +1,30 @@
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.dll
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.pdb
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csproj.CoreCompileInputs.cache
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.dll
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.pdb
+C:\Users\800216\source\repos\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Лабы Ильшата\NewOOP_Lab7Library\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csprojAssemblyReference.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.dll
+D:\Visual Studio\Лабы ООП\Мои лабы\Lab7 — копия\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.pdb
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.dll
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\bin\Debug\NewOOP_Lab7Library.pdb
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csprojAssemblyReference.cache
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.csproj.CoreCompileInputs.cache
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.dll
+D:\Лабы ООП переделанные\Laba6 Final\NewOOP_Lab7Library\obj\Debug\NewOOP_Lab7Library.pdb

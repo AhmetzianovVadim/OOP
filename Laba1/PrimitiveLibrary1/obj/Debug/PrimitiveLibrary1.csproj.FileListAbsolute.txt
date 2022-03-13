@@ -1,0 +1,6 @@
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\bin\Debug\PrimitiveLibrary1.dll
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\bin\Debug\PrimitiveLibrary1.pdb
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\obj\Debug\PrimitiveLibrary1.csprojAssemblyReference.cache
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\obj\Debug\PrimitiveLibrary1.csproj.CoreCompileInputs.cache
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\obj\Debug\PrimitiveLibrary1.dll
+D:\Лабы ООП переделанные\Laba1\PrimitiveLibrary1\obj\Debug\PrimitiveLibrary1.pdb
